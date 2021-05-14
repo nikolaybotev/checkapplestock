@@ -3,6 +3,7 @@
 import json
 from urllib.request import urlopen
 import argparse
+import sys
 
 parser = argparse.ArgumentParser(description='Check Apple Store product availability.')
 parser.add_argument('--file', '-f', dest='file', default='ipad-pro-2021.json',
@@ -18,7 +19,7 @@ zip = args.zip
 for part in data['parts']:
     part_no = part['part']
     part_name = f"{data['name']} {part['wireless']} {part['capacity']} - {part['color']}"
-    print(f"Checking {part_no} : {part_name}...")
+    print(f"Checking {part_no} : {part_name}...", file=sys.stderr)
 
     with urlopen(f"https://www.apple.com/shop/fulfillment-messages?pl=true&parts.0={part_no}&location={zip}") as res:
         json_res = json.loads(res.read())
