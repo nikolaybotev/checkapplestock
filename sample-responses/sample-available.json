@@ -1,0 +1,1345 @@
+{
+    "body": {
+        "content": {
+            "deliveryMessage": {
+                "MYFW2LL/A": {
+                    "address": {
+                        "postalCode": "02360"
+                    },
+                    "basePartNumber": "MYFW2",
+                    "commitCodeId": "0",
+                    "defaultLocationEnabled": false,
+                    "deliveryOptionMessages": [
+                        {
+                            "displayName": "Mon, May 17 – Free",
+                            "inHomeSetup": "false"
+                        }
+                    ],
+                    "deliveryOptions": [
+                        {
+                            "additionalContent": null,
+                            "date": "Mon, May 17",
+                            "displayName": "Express Delivery",
+                            "shippingCost": "Free"
+                        }
+                    ],
+                    "deliveryOptionsLink": {
+                        "dataVar": {},
+                        "newTab": false,
+                        "text": "Delivery options for 02360†† "
+                    },
+                    "idl": false,
+                    "inHomeSetup": false,
+                    "isBuyable": true,
+                    "isElectronic": false,
+                    "messageType": "Delivery",
+                    "orderByDeliveryBy": "Order today, delivers:",
+                    "showDeliveryOptionsLink": true
+                },
+                "accessibilityDeliveryOptions": "delivery options",
+                "contentloaded": "",
+                "dudeCookieSet": false,
+                "dudeLocated": false,
+                "geoEnabled": true,
+                "geoLocated": true,
+                "locationCookieValueFoundForThisCountry": false,
+                "messageType": "regular",
+                "processing": ""
+            },
+            "pickupMessage": {
+                "availability": {
+                    "isComingSoon": false
+                },
+                "little": false,
+                "location": "01803",
+                "notAvailableNearOneStore": "Not available today at the nearest store.",
+                "notAvailableNearby": "Not available today at [X] nearest stores.",
+                "overlayInitiatedFromWarmStart": false,
+                "stores": [
+                    {
+                        "address": {
+                            "address": "Apple Burlington",
+                            "address2": "75 Middlesex Turnpike",
+                            "address3": null,
+                            "postalCode": "01803"
+                        },
+                        "city": "Burlington",
+                        "country": "US",
+                        "directionsUrl": "http://www.apple.com/retail/burlington",
+                        "hoursUrl": "http://www.apple.com/retail/burlington",
+                        "makeReservationUrl": "http://www.apple.com/retail/burlington",
+                        "partsAvailability": {
+                            "MYFW2LL/A": {
+                                "ctoOptions": "",
+                                "partNumber": "MYFW2LL/A",
+                                "pickupDisplay": "available",
+                                "pickupSearchQuote": "Available Tomorrow",
+                                "pickupType": "In-Store or Curbside Pickup",
+                                "purchaseOption": "",
+                                "storePickEligible": true,
+                                "storePickupLabel": "Pick up, in-store or curbside:",
+                                "storePickupLinkText": "Check availability",
+                                "storePickupProductTitle": "10.9-inch iPad Air Wi-Fi 256GB - Silver",
+                                "storePickupQuote": "Tomorrow at Apple Burlington",
+                                "storeSearchEnabled": true,
+                                "storeSelectionEnabled": true
+                            }
+                        },
+                        "phoneNumber": "781-653 0970",
+                        "pickupOptionsDetails": {
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "index": 1,
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "pickupOptionTitle": "In-Store"
+                                },
+                                {
+                                    "index": 2,
+                                    "pickupOptionDescription": "We’ll bring your online order to your vehicle.",
+                                    "pickupOptionTitle": "Curbside"
+                                }
+                            ],
+                            "whatToExpectAtPickup": "<span class=\"as-pickupmethods-intro-header\">What to expect at pickup </span><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist."
+                        },
+                        "pickupTypeAvailabilityText": "In-Store and Curbside Pickup available at this location.",
+                        "rank": 1,
+                        "reservationUrl": "http://www.apple.com/retail/burlington",
+                        "specialHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "specialHoursData": [
+                                {
+                                    "specialDays": "May 13:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 17:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 18:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 19:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 20:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                }
+                            ],
+                            "specialHoursText": "Special store hours:",
+                            "viewAllSpecialHours": true
+                        },
+                        "state": "MA",
+                        "storeDistanceVoText": "1.79 mi from 01803",
+                        "storeDistanceWithUnit": "1.79 mi",
+                        "storeEmail": "burlington@apple.com",
+                        "storeHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeDays": "Sun:",
+                                    "storeTimings": "11:00 AM-6:00 PM"
+                                },
+                                {
+                                    "storeDays": "Mon-Sat:",
+                                    "storeTimings": "10:00 AM-9:00 PM"
+                                }
+                            ],
+                            "storeHoursText": "Store Hours"
+                        },
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R155.png?resize=828:*&output-format=jpg",
+                        "storeListNumber": 1,
+                        "storeName": "Burlington",
+                        "storeNumber": "R155",
+                        "storedistance": 1.79,
+                        "storelatitude": 42.48275,
+                        "storelistnumber": 1,
+                        "storelongitude": -71.21398
+                    },
+                    {
+                        "address": {
+                            "address": "Apple MarketStreet",
+                            "address2": "1220 Market Street",
+                            "address3": null,
+                            "postalCode": "01940"
+                        },
+                        "city": "Lynnfield",
+                        "country": "US",
+                        "directionsUrl": "http://www.apple.com/retail/marketstreet",
+                        "hoursUrl": "http://www.apple.com/retail/marketstreet",
+                        "makeReservationUrl": "http://www.apple.com/retail/marketstreet",
+                        "partsAvailability": {
+                            "MYFW2LL/A": {
+                                "ctoOptions": "",
+                                "partNumber": "MYFW2LL/A",
+                                "pickupDisplay": "available",
+                                "pickupSearchQuote": "Available Tomorrow",
+                                "pickupType": "In-Store or Curbside Pickup",
+                                "purchaseOption": "",
+                                "storePickEligible": true,
+                                "storePickupLabel": "Pick up, in-store or curbside:",
+                                "storePickupLinkText": "Check availability",
+                                "storePickupProductTitle": "10.9-inch iPad Air Wi-Fi 256GB - Silver",
+                                "storePickupQuote": "Tomorrow at Apple MarketStreet",
+                                "storeSearchEnabled": true,
+                                "storeSelectionEnabled": true
+                            }
+                        },
+                        "phoneNumber": "978-326 0970",
+                        "pickupOptionsDetails": {
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "index": 1,
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "pickupOptionTitle": "In-Store"
+                                },
+                                {
+                                    "index": 2,
+                                    "pickupOptionDescription": "We’ll bring your online order to your vehicle.",
+                                    "pickupOptionTitle": "Curbside"
+                                }
+                            ],
+                            "whatToExpectAtPickup": "<span class=\"as-pickupmethods-intro-header\">What to expect at pickup </span><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist."
+                        },
+                        "pickupTypeAvailabilityText": "In-Store and Curbside Pickup available at this location.",
+                        "rank": 2,
+                        "reservationUrl": "http://www.apple.com/retail/marketstreet",
+                        "specialHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "specialHoursData": [
+                                {
+                                    "specialDays": "May 13:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 14:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 15:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 17:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 18:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 19:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 20:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                }
+                            ],
+                            "specialHoursText": "Special store hours:",
+                            "viewAllSpecialHours": true
+                        },
+                        "state": "MA",
+                        "storeDistanceVoText": "8.25 mi from 01940",
+                        "storeDistanceWithUnit": "8.25 mi",
+                        "storeEmail": "marketstreet@apple.com",
+                        "storeHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeDays": "Sun:",
+                                    "storeTimings": "11:00 AM-6:00 PM"
+                                },
+                                {
+                                    "storeDays": "Mon-Sat:",
+                                    "storeTimings": "10:00 AM-9:00 PM"
+                                }
+                            ],
+                            "storeHoursText": "Store Hours"
+                        },
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R011.png?resize=828:*&output-format=jpg",
+                        "storeListNumber": 2,
+                        "storeName": "MarketStreet",
+                        "storeNumber": "R011",
+                        "storedistance": 8.25,
+                        "storelatitude": 42.51559067532765,
+                        "storelistnumber": 2,
+                        "storelongitude": -71.0342469577784
+                    },
+                    {
+                        "address": {
+                            "address": "Apple CambridgeSide",
+                            "address2": "100 CambridgeSide Place",
+                            "address3": null,
+                            "postalCode": "02141"
+                        },
+                        "city": "Cambridge",
+                        "country": "US",
+                        "directionsUrl": "http://www.apple.com/retail/cambridgeside",
+                        "hoursUrl": "http://www.apple.com/retail/cambridgeside",
+                        "makeReservationUrl": "http://www.apple.com/retail/cambridgeside",
+                        "partsAvailability": {
+                            "MYFW2LL/A": {
+                                "ctoOptions": "",
+                                "partNumber": "MYFW2LL/A",
+                                "pickupDisplay": "available",
+                                "pickupSearchQuote": "Available Tomorrow",
+                                "pickupType": "In-Store Pickup",
+                                "purchaseOption": "",
+                                "storePickEligible": true,
+                                "storePickupLabel": "Pick up, in-store:",
+                                "storePickupLinkText": "Check availability",
+                                "storePickupProductTitle": "10.9-inch iPad Air Wi-Fi 256GB - Silver",
+                                "storePickupQuote": "Tomorrow at Apple CambridgeSide",
+                                "storeSearchEnabled": true,
+                                "storeSelectionEnabled": true
+                            }
+                        },
+                        "phoneNumber": "617-528 7970",
+                        "pickupOptionsDetails": {
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "index": 1,
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "pickupOptionTitle": "In-Store"
+                                }
+                            ],
+                            "whatToExpectAtPickup": "<span class=\"as-pickupmethods-intro-header\">What to expect at pickup </span><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist."
+                        },
+                        "pickupTypeAvailabilityText": "In-Store Pickup available at this location.",
+                        "rank": 3,
+                        "reservationUrl": "http://www.apple.com/retail/cambridgeside",
+                        "specialHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "specialHoursData": [
+                                {
+                                    "specialDays": "May 13:",
+                                    "specialTimings": "11:00 AM-7:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 14:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 15:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 16:",
+                                    "specialTimings": "12:00 PM-6:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 17:",
+                                    "specialTimings": "11:00 AM-7:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 18:",
+                                    "specialTimings": "11:00 AM-7:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 19:",
+                                    "specialTimings": "11:00 AM-7:00 PM"
+                                }
+                            ],
+                            "specialHoursText": "Special store hours:",
+                            "viewAllSpecialHours": true
+                        },
+                        "state": "MA",
+                        "storeDistanceVoText": "11.25 mi from 02141",
+                        "storeDistanceWithUnit": "11.25 mi",
+                        "storeEmail": "cambridgeside@apple.com",
+                        "storeHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeDays": "Sun:",
+                                    "storeTimings": "12:00 PM-7:00 PM"
+                                },
+                                {
+                                    "storeDays": "Mon-Sat:",
+                                    "storeTimings": "10:00 AM-9:00 PM"
+                                }
+                            ],
+                            "storeHoursText": "Store Hours"
+                        },
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R021.png?resize=828:*&output-format=jpg",
+                        "storeListNumber": 3,
+                        "storeName": "CambridgeSide",
+                        "storeNumber": "R021",
+                        "storedistance": 11.25,
+                        "storelatitude": 42.367932,
+                        "storelistnumber": 3,
+                        "storelongitude": -71.075913
+                    },
+                    {
+                        "address": {
+                            "address": "Apple Boylston Street",
+                            "address2": "815 Boylston Street",
+                            "address3": null,
+                            "postalCode": "02116"
+                        },
+                        "city": "Boston",
+                        "country": "US",
+                        "directionsUrl": "http://www.apple.com/retail/boylstonstreet",
+                        "hoursUrl": "http://www.apple.com/retail/boylstonstreet",
+                        "makeReservationUrl": "http://www.apple.com/retail/boylstonstreet",
+                        "partsAvailability": {
+                            "MYFW2LL/A": {
+                                "ctoOptions": "",
+                                "partNumber": "MYFW2LL/A",
+                                "pickupDisplay": "available",
+                                "pickupSearchQuote": "Available Tomorrow",
+                                "pickupType": "In-Store Pickup",
+                                "purchaseOption": "",
+                                "storePickEligible": true,
+                                "storePickupLabel": "Pick up, in-store:",
+                                "storePickupLinkText": "Check availability",
+                                "storePickupProductTitle": "10.9-inch iPad Air Wi-Fi 256GB - Silver",
+                                "storePickupQuote": "Tomorrow at Apple Boylston Street",
+                                "storeSearchEnabled": true,
+                                "storeSelectionEnabled": true
+                            }
+                        },
+                        "phoneNumber": "617-385 9400",
+                        "pickupOptionsDetails": {
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "index": 1,
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "pickupOptionTitle": "In-Store"
+                                }
+                            ],
+                            "whatToExpectAtPickup": "<span class=\"as-pickupmethods-intro-header\">What to expect at pickup </span><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist."
+                        },
+                        "pickupTypeAvailabilityText": "In-Store Pickup available at this location.",
+                        "rank": 4,
+                        "reservationUrl": "http://www.apple.com/retail/boylstonstreet",
+                        "specialHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "specialHoursData": [
+                                {
+                                    "specialDays": "May 13:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 14:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 15:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 17:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 18:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 19:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 20:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                }
+                            ],
+                            "specialHoursText": "Special store hours:",
+                            "viewAllSpecialHours": true
+                        },
+                        "state": "MA",
+                        "storeDistanceVoText": "12.21 mi from 02116",
+                        "storeDistanceWithUnit": "12.21 mi",
+                        "storeEmail": "boylstonstreet@apple.com",
+                        "storeHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeDays": "Sun:",
+                                    "storeTimings": "11:00 AM-7:00 PM"
+                                },
+                                {
+                                    "storeDays": "Mon-Sat:",
+                                    "storeTimings": "10:00 AM-9:00 PM"
+                                }
+                            ],
+                            "storeHoursText": "Store Hours"
+                        },
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R149.png?resize=828:*&output-format=jpg",
+                        "storeListNumber": 4,
+                        "storeName": "Boylston Street",
+                        "storeNumber": "R149",
+                        "storedistance": 12.21,
+                        "storelatitude": 42.3489865114876,
+                        "storelistnumber": 4,
+                        "storelongitude": -71.0824840137929
+                    },
+                    {
+                        "address": {
+                            "address": "Apple Chestnut Hill",
+                            "address2": "199 Boylston Street",
+                            "address3": null,
+                            "postalCode": "02467"
+                        },
+                        "city": "Chestnut Hill",
+                        "country": "US",
+                        "directionsUrl": "http://www.apple.com/retail/chestnuthill",
+                        "hoursUrl": "http://www.apple.com/retail/chestnuthill",
+                        "makeReservationUrl": "http://www.apple.com/retail/chestnuthill",
+                        "partsAvailability": {
+                            "MYFW2LL/A": {
+                                "ctoOptions": "",
+                                "partNumber": "MYFW2LL/A",
+                                "pickupDisplay": "unavailable",
+                                "pickupSearchQuote": "Currently unavailable",
+                                "purchaseOption": "",
+                                "storePickEligible": true,
+                                "storePickupLabel": "Pickup:",
+                                "storePickupLinkText": "Check availability",
+                                "storePickupProductTitle": "10.9-inch iPad Air Wi-Fi 256GB - Silver",
+                                "storePickupQuote": "Currently unavailable at Apple Chestnut Hill",
+                                "storeSearchEnabled": true,
+                                "storeSelectionEnabled": false
+                            }
+                        },
+                        "phoneNumber": "617-454 9940",
+                        "pickupOptionsDetails": {
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "index": 1,
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "pickupOptionTitle": "In-Store"
+                                },
+                                {
+                                    "index": 2,
+                                    "pickupOptionDescription": "We’ll bring your online order to your vehicle.",
+                                    "pickupOptionTitle": "Curbside"
+                                }
+                            ],
+                            "whatToExpectAtPickup": "<span class=\"as-pickupmethods-intro-header\">What to expect at pickup </span><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist."
+                        },
+                        "pickupTypeAvailabilityText": "In-Store and Curbside Pickup available at this location.",
+                        "rank": 5,
+                        "reservationUrl": "http://www.apple.com/retail/chestnuthill",
+                        "state": "MA",
+                        "storeDistanceVoText": "12.72 mi from 02467",
+                        "storeDistanceWithUnit": "12.72 mi",
+                        "storeEmail": "chestnuthill@apple.com",
+                        "storeHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeDays": "Mon-Sat:",
+                                    "storeTimings": "11:00 AM-7:00 PM"
+                                },
+                                {
+                                    "storeDays": "Sun:",
+                                    "storeTimings": "12:00 PM-6:00 PM"
+                                }
+                            ],
+                            "storeHoursText": "Store Hours"
+                        },
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R076.png?resize=828:*&output-format=jpg",
+                        "storeListNumber": 5,
+                        "storeName": "Chestnut Hill",
+                        "storeNumber": "R076",
+                        "storedistance": 12.72,
+                        "storelatitude": 42.321205,
+                        "storelistnumber": 5,
+                        "storelongitude": -71.17616
+                    },
+                    {
+                        "address": {
+                            "address": "Apple Natick",
+                            "address2": "1245 Worcester Street",
+                            "address3": null,
+                            "postalCode": "01760"
+                        },
+                        "city": "Natick",
+                        "country": "US",
+                        "directionsUrl": "http://www.apple.com/retail/natick",
+                        "hoursUrl": "http://www.apple.com/retail/natick",
+                        "makeReservationUrl": "http://www.apple.com/retail/natick",
+                        "partsAvailability": {
+                            "MYFW2LL/A": {
+                                "ctoOptions": "",
+                                "partNumber": "MYFW2LL/A",
+                                "pickupDisplay": "available",
+                                "pickupSearchQuote": "Available Tomorrow",
+                                "pickupType": "In-Store or Curbside Pickup",
+                                "purchaseOption": "",
+                                "storePickEligible": true,
+                                "storePickupLabel": "Pick up, in-store or curbside:",
+                                "storePickupLinkText": "Check availability",
+                                "storePickupProductTitle": "10.9-inch iPad Air Wi-Fi 256GB - Silver",
+                                "storePickupQuote": "Tomorrow at Apple Natick",
+                                "storeSearchEnabled": true,
+                                "storeSelectionEnabled": true
+                            }
+                        },
+                        "phoneNumber": "508-903 2800",
+                        "pickupOptionsDetails": {
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "index": 1,
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "pickupOptionTitle": "In-Store"
+                                },
+                                {
+                                    "index": 2,
+                                    "pickupOptionDescription": "We’ll bring your online order to your vehicle.",
+                                    "pickupOptionTitle": "Curbside"
+                                }
+                            ],
+                            "whatToExpectAtPickup": "<span class=\"as-pickupmethods-intro-header\">What to expect at pickup </span><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist."
+                        },
+                        "pickupTypeAvailabilityText": "In-Store and Curbside Pickup available at this location.",
+                        "rank": 6,
+                        "reservationUrl": "http://www.apple.com/retail/natick",
+                        "specialHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "specialHoursData": [
+                                {
+                                    "specialDays": "May 13:",
+                                    "specialTimings": "11:00 AM-7:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 14:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 15:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 16:",
+                                    "specialTimings": "12:00 PM-6:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 17:",
+                                    "specialTimings": "11:00 AM-7:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 18:",
+                                    "specialTimings": "11:00 AM-7:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 19:",
+                                    "specialTimings": "11:00 AM-7:00 PM"
+                                }
+                            ],
+                            "specialHoursText": "Special store hours:",
+                            "viewAllSpecialHours": true
+                        },
+                        "state": "MA",
+                        "storeDistanceVoText": "17.01 mi from 01760",
+                        "storeDistanceWithUnit": "17.01 mi",
+                        "storeEmail": "natick@apple.com",
+                        "storeHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeDays": "Sun:",
+                                    "storeTimings": "11:00 AM-6:00 PM"
+                                },
+                                {
+                                    "storeDays": "Mon-Sat:",
+                                    "storeTimings": "10:00 AM-9:00 PM"
+                                }
+                            ],
+                            "storeHoursText": "Store Hours"
+                        },
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R232.png?resize=828:*&output-format=jpg",
+                        "storeListNumber": 6,
+                        "storeName": "Natick",
+                        "storeNumber": "R232",
+                        "storedistance": 17.01,
+                        "storelatitude": 42.301522,
+                        "storelistnumber": 6,
+                        "storelongitude": -71.383724
+                    },
+                    {
+                        "address": {
+                            "address": "Apple Rockingham Park",
+                            "address2": "99 Rockingham Park Boulevard",
+                            "address3": null,
+                            "postalCode": "03079"
+                        },
+                        "city": "Salem",
+                        "country": "US",
+                        "directionsUrl": "http://www.apple.com/retail/rockinghampark",
+                        "hoursUrl": "http://www.apple.com/retail/rockinghampark",
+                        "makeReservationUrl": "http://www.apple.com/retail/rockinghampark",
+                        "partsAvailability": {
+                            "MYFW2LL/A": {
+                                "ctoOptions": "",
+                                "partNumber": "MYFW2LL/A",
+                                "pickupDisplay": "available",
+                                "pickupSearchQuote": "Available Tomorrow",
+                                "pickupType": "In-Store Pickup",
+                                "purchaseOption": "",
+                                "storePickEligible": true,
+                                "storePickupLabel": "Pick up, in-store:",
+                                "storePickupLinkText": "Check availability",
+                                "storePickupProductTitle": "10.9-inch iPad Air Wi-Fi 256GB - Silver",
+                                "storePickupQuote": "Tomorrow at Apple Rockingham Park",
+                                "storeSearchEnabled": true,
+                                "storeSelectionEnabled": true
+                            }
+                        },
+                        "phoneNumber": "603-328 3140",
+                        "pickupOptionsDetails": {
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "index": 1,
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "pickupOptionTitle": "In-Store"
+                                }
+                            ],
+                            "whatToExpectAtPickup": "<span class=\"as-pickupmethods-intro-header\">What to expect at pickup </span><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist."
+                        },
+                        "pickupTypeAvailabilityText": "In-Store Pickup available at this location.",
+                        "rank": 7,
+                        "reservationUrl": "http://www.apple.com/retail/rockinghampark",
+                        "specialHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "specialHoursData": [
+                                {
+                                    "specialDays": "May 13:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 14:",
+                                    "specialTimings": "10:00 AM-9:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 15:",
+                                    "specialTimings": "10:00 AM-9:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 16:",
+                                    "specialTimings": "11:00 AM-6:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 17:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 18:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 19:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                }
+                            ],
+                            "specialHoursText": "Special store hours:",
+                            "viewAllSpecialHours": true
+                        },
+                        "state": "NH",
+                        "storeDistanceVoText": "18.23 mi from 03079",
+                        "storeDistanceWithUnit": "18.23 mi",
+                        "storeEmail": "rockinghampark@apple.com",
+                        "storeHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeDays": "Mon-Thu:",
+                                    "storeTimings": "11:00 AM-7:00 PM"
+                                },
+                                {
+                                    "storeDays": "Sun:",
+                                    "storeTimings": "11:00 AM-6:00 PM"
+                                },
+                                {
+                                    "storeDays": "Fri-Sat:",
+                                    "storeTimings": "10:00 AM-9:00 PM"
+                                }
+                            ],
+                            "storeHoursText": "Store Hours"
+                        },
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R027.png?resize=828:*&output-format=jpg",
+                        "storeListNumber": 7,
+                        "storeName": "Rockingham Park",
+                        "storeNumber": "R027",
+                        "storedistance": 18.23,
+                        "storelatitude": 42.767197,
+                        "storelistnumber": 7,
+                        "storelongitude": -71.231989
+                    },
+                    {
+                        "address": {
+                            "address": "Apple Pheasant Lane",
+                            "address2": "310 Daniel Webster Highway",
+                            "address3": null,
+                            "postalCode": "03060"
+                        },
+                        "city": "Nashua",
+                        "country": "US",
+                        "directionsUrl": "http://www.apple.com/retail/pheasantlane/",
+                        "hoursUrl": "http://www.apple.com/retail/pheasantlane/",
+                        "makeReservationUrl": "http://www.apple.com/retail/pheasantlane/",
+                        "partsAvailability": {
+                            "MYFW2LL/A": {
+                                "ctoOptions": "",
+                                "partNumber": "MYFW2LL/A",
+                                "pickupDisplay": "available",
+                                "pickupSearchQuote": "Available Tomorrow",
+                                "pickupType": "In-Store Pickup",
+                                "purchaseOption": "",
+                                "storePickEligible": true,
+                                "storePickupLabel": "Pick up, in-store:",
+                                "storePickupLinkText": "Check availability",
+                                "storePickupProductTitle": "10.9-inch iPad Air Wi-Fi 256GB - Silver",
+                                "storePickupQuote": "Tomorrow at Apple Pheasant Lane",
+                                "storeSearchEnabled": true,
+                                "storeSelectionEnabled": true
+                            }
+                        },
+                        "phoneNumber": "603-521 3400",
+                        "pickupOptionsDetails": {
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "index": 1,
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "pickupOptionTitle": "In-Store"
+                                }
+                            ],
+                            "whatToExpectAtPickup": "<span class=\"as-pickupmethods-intro-header\">What to expect at pickup </span><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist."
+                        },
+                        "pickupTypeAvailabilityText": "In-Store Pickup available at this location.",
+                        "rank": 8,
+                        "reservationUrl": "http://www.apple.com/retail/pheasantlane/",
+                        "specialHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "specialHoursData": [
+                                {
+                                    "specialDays": "May 13:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 17:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 18:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 19:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 20:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                }
+                            ],
+                            "specialHoursText": "Special store hours:",
+                            "viewAllSpecialHours": true
+                        },
+                        "state": "NH",
+                        "storeDistanceVoText": "18.34 mi from 03060",
+                        "storeDistanceWithUnit": "18.34 mi",
+                        "storeEmail": "R354@apple.com",
+                        "storeHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeDays": "Sun:",
+                                    "storeTimings": "11:00 AM-6:00 PM"
+                                },
+                                {
+                                    "storeDays": "Mon-Sat:",
+                                    "storeTimings": "10:00 AM-9:00 PM"
+                                }
+                            ],
+                            "storeHoursText": "Store Hours"
+                        },
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R354.png?resize=828:*&output-format=jpg",
+                        "storeListNumber": 8,
+                        "storeName": "Pheasant Lane",
+                        "storeNumber": "R354",
+                        "storedistance": 18.34,
+                        "storelatitude": 42.701675,
+                        "storelistnumber": 8,
+                        "storelongitude": -71.4373736743911
+                    },
+                    {
+                        "address": {
+                            "address": "Apple Legacy Place",
+                            "address2": "508 Legacy Place ",
+                            "address3": null,
+                            "postalCode": "02026"
+                        },
+                        "city": "Dedham",
+                        "country": "US",
+                        "directionsUrl": "http://www.apple.com/retail/legacyplace/",
+                        "hoursUrl": "http://www.apple.com/retail/legacyplace/",
+                        "makeReservationUrl": "http://www.apple.com/retail/legacyplace/",
+                        "partsAvailability": {
+                            "MYFW2LL/A": {
+                                "ctoOptions": "",
+                                "partNumber": "MYFW2LL/A",
+                                "pickupDisplay": "unavailable",
+                                "pickupSearchQuote": "Currently unavailable",
+                                "purchaseOption": "",
+                                "storePickEligible": true,
+                                "storePickupLabel": "Pickup:",
+                                "storePickupLinkText": "Check availability",
+                                "storePickupProductTitle": "10.9-inch iPad Air Wi-Fi 256GB - Silver",
+                                "storePickupQuote": "Currently unavailable at Apple Legacy Place",
+                                "storeSearchEnabled": true,
+                                "storeSelectionEnabled": false
+                            }
+                        },
+                        "phoneNumber": "781-471 3800",
+                        "pickupOptionsDetails": {
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "index": 1,
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "pickupOptionTitle": "In-Store"
+                                },
+                                {
+                                    "index": 2,
+                                    "pickupOptionDescription": "We’ll bring your online order to your vehicle.",
+                                    "pickupOptionTitle": "Curbside"
+                                }
+                            ],
+                            "whatToExpectAtPickup": "<span class=\"as-pickupmethods-intro-header\">What to expect at pickup </span><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist."
+                        },
+                        "pickupTypeAvailabilityText": "In-Store and Curbside Pickup available at this location.",
+                        "rank": 9,
+                        "reservationUrl": "http://www.apple.com/retail/legacyplace/",
+                        "specialHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "specialHoursData": [
+                                {
+                                    "specialDays": "May 13:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 14:",
+                                    "specialTimings": "10:00 AM-9:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 15:",
+                                    "specialTimings": "10:00 AM-9:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 16:",
+                                    "specialTimings": "11:00 AM-6:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 17:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 18:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 19:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                }
+                            ],
+                            "specialHoursText": "Special store hours:",
+                            "viewAllSpecialHours": true
+                        },
+                        "state": "MA",
+                        "storeDistanceVoText": "18.94 mi from 02026",
+                        "storeDistanceWithUnit": "18.94 mi",
+                        "storeEmail": "legacyplace@apple.com",
+                        "storeHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeDays": "Sun:",
+                                    "storeTimings": "11:00 AM-6:00 PM"
+                                },
+                                {
+                                    "storeDays": "Mon-Sat:",
+                                    "storeTimings": "10:00 AM-9:00 PM"
+                                }
+                            ],
+                            "storeHoursText": "Store Hours"
+                        },
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R346.png?resize=828:*&output-format=jpg",
+                        "storeListNumber": 9,
+                        "storeName": "Legacy Place",
+                        "storeNumber": "R346",
+                        "storedistance": 18.94,
+                        "storelatitude": 42.2308727436183,
+                        "storelistnumber": 9,
+                        "storelongitude": -71.1783933202552
+                    },
+                    {
+                        "address": {
+                            "address": "Apple South Shore",
+                            "address2": "250 Granite Street",
+                            "address3": null,
+                            "postalCode": "02184"
+                        },
+                        "city": "Braintree",
+                        "country": "US",
+                        "directionsUrl": "http://www.apple.com/retail/southshore",
+                        "hoursUrl": "http://www.apple.com/retail/southshore",
+                        "makeReservationUrl": "http://www.apple.com/retail/southshore",
+                        "partsAvailability": {
+                            "MYFW2LL/A": {
+                                "ctoOptions": "",
+                                "partNumber": "MYFW2LL/A",
+                                "pickupDisplay": "available",
+                                "pickupSearchQuote": "Available Tomorrow",
+                                "pickupType": "In-Store Pickup",
+                                "purchaseOption": "",
+                                "storePickEligible": true,
+                                "storePickupLabel": "Pick up, in-store:",
+                                "storePickupLinkText": "Check availability",
+                                "storePickupProductTitle": "10.9-inch iPad Air Wi-Fi 256GB - Silver",
+                                "storePickupQuote": "Tomorrow at Apple South Shore",
+                                "storeSearchEnabled": true,
+                                "storeSelectionEnabled": true
+                            }
+                        },
+                        "phoneNumber": "781-817 1270",
+                        "pickupOptionsDetails": {
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "index": 1,
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "pickupOptionTitle": "In-Store"
+                                }
+                            ],
+                            "whatToExpectAtPickup": "<span class=\"as-pickupmethods-intro-header\">What to expect at pickup </span><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist."
+                        },
+                        "pickupTypeAvailabilityText": "In-Store Pickup available at this location.",
+                        "rank": 10,
+                        "reservationUrl": "http://www.apple.com/retail/southshore",
+                        "specialHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "specialHoursData": [
+                                {
+                                    "specialDays": "May 13:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 14:",
+                                    "specialTimings": "10:00 AM-9:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 15:",
+                                    "specialTimings": "10:00 AM-9:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 16:",
+                                    "specialTimings": "11:00 AM-6:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 17:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 18:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 19:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                }
+                            ],
+                            "specialHoursText": "Special store hours:",
+                            "viewAllSpecialHours": true
+                        },
+                        "state": "MA",
+                        "storeDistanceVoText": "21.39 mi from 02184",
+                        "storeDistanceWithUnit": "21.39 mi",
+                        "storeEmail": "southshore@apple.com",
+                        "storeHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeDays": "Sun:",
+                                    "storeTimings": "11:00 AM-6:00 PM"
+                                },
+                                {
+                                    "storeDays": "Mon-Sat:",
+                                    "storeTimings": "10:00 AM-9:00 PM"
+                                }
+                            ],
+                            "storeHoursText": "Store Hours"
+                        },
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R110.png?resize=828:*&output-format=jpg",
+                        "storeListNumber": 10,
+                        "storeName": "South Shore",
+                        "storeNumber": "R110",
+                        "storedistance": 21.39,
+                        "storelatitude": 42.22222,
+                        "storelistnumber": 10,
+                        "storelongitude": -71.02444
+                    },
+                    {
+                        "address": {
+                            "address": "Apple Solomon Pond Mall",
+                            "address2": "601 Donald Lynch Boulevard",
+                            "address3": null,
+                            "postalCode": "01752"
+                        },
+                        "city": "Marlborough",
+                        "country": "US",
+                        "directionsUrl": "http://www.apple.com/retail/solomonpondmall",
+                        "hoursUrl": "http://www.apple.com/retail/solomonpondmall",
+                        "makeReservationUrl": "http://www.apple.com/retail/solomonpondmall",
+                        "partsAvailability": {
+                            "MYFW2LL/A": {
+                                "ctoOptions": "",
+                                "partNumber": "MYFW2LL/A",
+                                "pickupDisplay": "available",
+                                "pickupSearchQuote": "Available Tomorrow",
+                                "pickupType": "In-Store or Curbside Pickup",
+                                "purchaseOption": "",
+                                "storePickEligible": true,
+                                "storePickupLabel": "Pick up, in-store or curbside:",
+                                "storePickupLinkText": "Check availability",
+                                "storePickupProductTitle": "10.9-inch iPad Air Wi-Fi 256GB - Silver",
+                                "storePickupQuote": "Tomorrow at Apple Solomon Pond Mall",
+                                "storeSearchEnabled": true,
+                                "storeSelectionEnabled": true
+                            }
+                        },
+                        "phoneNumber": "978-8385000",
+                        "pickupOptionsDetails": {
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "index": 1,
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "pickupOptionTitle": "In-Store"
+                                },
+                                {
+                                    "index": 2,
+                                    "pickupOptionDescription": "We’ll bring your online order to your vehicle.",
+                                    "pickupOptionTitle": "Curbside"
+                                }
+                            ],
+                            "whatToExpectAtPickup": "<span class=\"as-pickupmethods-intro-header\">What to expect at pickup </span><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist."
+                        },
+                        "pickupTypeAvailabilityText": "In-Store and Curbside Pickup available at this location.",
+                        "rank": 11,
+                        "reservationUrl": "http://www.apple.com/retail/solomonpondmall",
+                        "specialHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "specialHoursData": [
+                                {
+                                    "specialDays": "May 13:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 17:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 18:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 19:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 20:",
+                                    "specialTimings": "11:00 AM-8:00 PM"
+                                }
+                            ],
+                            "specialHoursText": "Special store hours:",
+                            "viewAllSpecialHours": true
+                        },
+                        "state": "MA",
+                        "storeDistanceVoText": "23.65 mi from 01752",
+                        "storeDistanceWithUnit": "23.65 mi",
+                        "storeEmail": "solomonpondmall@apple.com",
+                        "storeHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeDays": "Sun:",
+                                    "storeTimings": "11:00 AM-6:00 PM"
+                                },
+                                {
+                                    "storeDays": "Mon-Sat:",
+                                    "storeTimings": "10:00 AM-9:00 PM"
+                                }
+                            ],
+                            "storeHoursText": "Store Hours"
+                        },
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R622.png?resize=828:*&output-format=jpg",
+                        "storeListNumber": 11,
+                        "storeName": "Solomon Pond Mall",
+                        "storeNumber": "R622",
+                        "storedistance": 23.65,
+                        "storelatitude": 42.355548,
+                        "storelistnumber": 11,
+                        "storelongitude": -71.612912
+                    },
+                    {
+                        "address": {
+                            "address": "Apple Derby Street",
+                            "address2": "94 Derby Street",
+                            "address3": "Suite #271",
+                            "postalCode": "02043"
+                        },
+                        "city": "Hingham",
+                        "country": "US",
+                        "directionsUrl": "http://www.apple.com/retail/derbystreet",
+                        "hoursUrl": "http://www.apple.com/retail/derbystreet",
+                        "makeReservationUrl": "http://www.apple.com/retail/derbystreet",
+                        "partsAvailability": {
+                            "MYFW2LL/A": {
+                                "ctoOptions": "",
+                                "partNumber": "MYFW2LL/A",
+                                "pickupDisplay": "available",
+                                "pickupSearchQuote": "Available Tomorrow",
+                                "pickupType": "In-Store or Curbside Pickup",
+                                "purchaseOption": "",
+                                "storePickEligible": true,
+                                "storePickupLabel": "Pick up, in-store or curbside:",
+                                "storePickupLinkText": "Check availability",
+                                "storePickupProductTitle": "10.9-inch iPad Air Wi-Fi 256GB - Silver",
+                                "storePickupQuote": "Tomorrow at Apple Derby Street",
+                                "storeSearchEnabled": true,
+                                "storeSelectionEnabled": true
+                            }
+                        },
+                        "phoneNumber": "781-556 0400",
+                        "pickupOptionsDetails": {
+                            "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+                            "pickupOptions": [
+                                {
+                                    "index": 1,
+                                    "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                                    "pickupOptionTitle": "In-Store"
+                                },
+                                {
+                                    "index": 2,
+                                    "pickupOptionDescription": "We’ll bring your online order to your vehicle.",
+                                    "pickupOptionTitle": "Curbside"
+                                }
+                            ],
+                            "whatToExpectAtPickup": "<span class=\"as-pickupmethods-intro-header\">What to expect at pickup </span><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist."
+                        },
+                        "pickupTypeAvailabilityText": "In-Store and Curbside Pickup available at this location.",
+                        "rank": 12,
+                        "reservationUrl": "http://www.apple.com/retail/derbystreet",
+                        "specialHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "specialHoursData": [
+                                {
+                                    "specialDays": "May 13:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 14:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 15:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 17:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 18:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 19:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                },
+                                {
+                                    "specialDays": "May 20:",
+                                    "specialTimings": "10:00 AM-8:00 PM"
+                                }
+                            ],
+                            "specialHoursText": "Special store hours:",
+                            "viewAllSpecialHours": true
+                        },
+                        "state": "MA",
+                        "storeDistanceVoText": "26.99 mi from 02043",
+                        "storeDistanceWithUnit": "26.99 mi",
+                        "storeEmail": "derbystreet@apple.com",
+                        "storeHours": {
+                            "bopisPickupDays": "Days",
+                            "bopisPickupHours": "Hours",
+                            "hours": [
+                                {
+                                    "storeDays": "Sun:",
+                                    "storeTimings": "11:00 AM-6:00 PM"
+                                },
+                                {
+                                    "storeDays": "Mon-Sat:",
+                                    "storeTimings": "10:00 AM-9:00 PM"
+                                }
+                            ],
+                            "storeHoursText": "Store Hours"
+                        },
+                        "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R137.png?resize=828:*&output-format=jpg",
+                        "storeListNumber": 12,
+                        "storeName": "Derby Street",
+                        "storeNumber": "R137",
+                        "storedistance": 26.99,
+                        "storelatitude": 42.17605,
+                        "storelistnumber": 12,
+                        "storelongitude": -70.90996
+                    }
+                ],
+                "storesCount": "12 stores found near 01803",
+                "viewDetailsText": "View details",
+                "viewMoreHoursLinkText": "View more hours",
+                "viewMoreHoursVoText": "(Opens in a new window)",
+                "warmDudeWithAPU": false
+            }
+        }
+    },
+    "head": {
+        "data": {},
+        "status": "200"
+    }
+}

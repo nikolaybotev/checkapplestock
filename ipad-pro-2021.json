@@ -1,0 +1,53 @@
+{
+    "name": "Apple iPad Pro 12.9-inch (5th generation, 2021)",
+    "parts": [
+        {
+            "color": "Space Gray",
+            "capacity": "1TB",
+            "wireless": "Wi-Fi",
+            "part": "MHNM3LL/A"
+        },
+        {
+            "color": "Silver",
+            "capacity": "1TB",
+            "wireless": "Wi-Fi",
+            "part": "MHNN3LL/A"
+        },
+        {
+            "color": "Space Gray",
+            "capacity": "1TB",
+            "wireless": "Wi-Fi + Cellular",
+            "part": "MHP13LL/A"
+        },
+        {
+            "color": "Silver",
+            "capacity": "1TB",
+            "wireless": "Wi-Fi + Cellular",
+            "part": "MHP23LL/A"
+        },
+        {
+            "color": "Space Gray",
+            "capacity": "2TB",
+            "wireless": "Wi-Fi",
+            "part": "MHNP3LL/A"
+        },
+        {
+            "color": "Silver",
+            "capacity": "2TB",
+            "wireless": "Wi-Fi",
+            "part": "MHNQ3LL/A"
+        },
+        {
+            "color": "Space Gray",
+            "capacity": "2TB",
+            "wireless": "Wi-Fi + Cellular",
+            "part": "MHP43LL/A"
+        },
+        {
+            "color": "Silver",
+            "capacity": "2TB",
+            "wireless": "Wi-Fi + Cellular",
+            "part": "MHP53LL/A"
+        }
+    ]
+}
